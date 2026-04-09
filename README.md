@@ -1,6 +1,6 @@
 # AI_ML_Systems_Projects
 #### 1) Multi-Modal JEE Math Mentor  | [click here](https://github.com/adityakanamadi281/jee-math-mentor)
-#### 2) DataCopilot  | [click here](https://github.com/adityakanamadi281/DataCopilot)
+#### 2) AutoEDA AI  | [click here](https://github.com/adityakanamadi281/AutoEDA_AI)
 #### 3) TinyLlama API | [click here](https://github.com/adityakanamadi281/TinyLlama_API)
 #### 4) AI Feedback System |  [click here](https://github.com/adityakanamadi281/review_feedback_system)
 #### 5) InvoiceIQ |  [click here](https://github.com/adityakanamadi281/InvoiceIQ)
